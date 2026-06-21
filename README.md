@@ -90,9 +90,9 @@ Connect to `data/cleaned/cleaned_data.csv`
 
 ## 👤 Author
 **Your Name**
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- GitHub: [github.com/yourname](https://github.com/yourname)
-- Email: your@email.com
+- LinkedIn: [linkedin.com/in/challagali arunkumar](www.linkedin.com/in/challagali-arun-kumar-5a4668290)
+- GitHub: [github.com/yourname](https://github.com/ch-Arunkumar)
+- Email: challagaliarun4@email.com
 
 ## 📄 License
-MIT License — free to use and modify
+MIT License 
